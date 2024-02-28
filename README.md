@@ -8,6 +8,6 @@
   <img src="https://img.icons8.com/officel/40/000000/php-logo.png" width="44"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="44"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="44"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="44"/>
+   <img src="https://img.icons8.com/color/48/000000/mysql.png" width="24"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png" width="44"/>
 </p>
