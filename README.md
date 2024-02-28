@@ -1,5 +1,3 @@
-# Adrian
-
-<blockquote style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; box-shadow: 5px 5px 15px #888888;">
-    <h1 style="color: #333333; text-align: center; font-family: Arial, sans-serif; font-weight: bold; text-shadow: 2px 2px 4px #aaa;">Adrian</h1>
-</blockquote>
+<div style="background-color: #6495ED; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+    <h1 style="color: white; text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 48px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);">Adrian</h1>
+</div>
