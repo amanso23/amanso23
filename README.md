@@ -1,1 +1,1 @@
-🚀 Bienvenido a mi perfil de GitHub! 😊✨
+🚀 Bienvenido a mi perfil de GitHub!
